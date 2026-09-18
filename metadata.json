@@ -1,0 +1,6 @@
+{
+  "name": "EduTrack Pro",
+  "description": "Academic management, attendance tracking, syllabus completion monitoring, and exam marks ledger with report card generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
